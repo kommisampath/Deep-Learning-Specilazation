@@ -16,7 +16,7 @@ Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract
 
 This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
 
-## 2021 Version
+## 2025 Version
 
 This specialization was updated in April 2021 to include developments in deep learning and programming frameworks, with the biggest change being shifting from TensorFlow 1 to TensorFlow 2. This repo has been updated accordingly as well.
 
